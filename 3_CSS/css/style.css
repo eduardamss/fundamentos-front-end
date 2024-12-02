@@ -1,0 +1,56 @@
+/* 4- external*/
+body{
+    padding-bottom: 500px;
+}
+
+h3{
+    color: green;
+}
+
+p{
+    color: blueviolet;
+}
+
+/*5- comentário*/
+
+/*8-Class*/
+
+.paragraph{
+    background-color: aliceblue;
+    color: aqua;
+    padding: 5px;
+    
+}
+
+/*ID*/
+
+#exclusive-title{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    font-size: 40px;
+
+}
+
+/*ordem do Css*/
+
+h2{
+    border-bottom: 2px solid red;
+
+}
+
+.titulo{
+    border-bottom: 3px solid blue; 
+}
+
+#algum-titulo{
+    border-bottom: 6px solid green;
+} 
+/*Nomer de cores*/
+.color-name{
+    color:rgb(168, 57, 17)
+}
+
+.hex{
+    color:#55a398;
+}
