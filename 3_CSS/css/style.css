@@ -1,5 +1,5 @@
 /* 4- external*/
-body{
+/*body{
     padding-bottom: 500px;
 }
 
@@ -9,7 +9,7 @@ h3{
 
 p{
     color: blueviolet;
-}
+}*/
 
 /*5- comentário*/
 
@@ -53,4 +53,31 @@ h2{
 
 .hex{
     color:#55a398;
+}
+
+.simple-hex{
+color: #55a398
+}
+
+/*RGB*/
+
+.rgb{
+    color:rgb(255,0,0)
+}
+
+.mixed-rgb{
+
+    color: rgb(199,21,47);
+}
+
+/*RGBA*/
+
+.rgba{
+ color: rgb(82, 82, 52);
+}
+
+/*HSL*/
+
+.hsl{
+    color: hsl(100, 40%, 55%);
 }
